@@ -3,6 +3,15 @@
 
 Desafio do Projeto sobre Git/GitHub   
 
-## Links útei s  
+## Links úteis 
+
+### Para edição do Readme
 
 [Sintaxe Básica MarkDown] - https://www.markdownguide.org/basic-syntax/  
+
+### Sobre Git e seus comandos
+
+[Guia de comandos básicos] https://comandosgit.github.io/
+
+[Guia de referência] https://git-scm.com/docs
+
