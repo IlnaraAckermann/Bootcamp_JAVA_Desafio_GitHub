@@ -18,7 +18,8 @@ Desafio do Projeto sobre Git/GitHub
   
 [Guia de referência] https://git-scm.com/docs
    
-## Sintaxe Básica
+   
+## Sintaxe Básica do MarkDown
 
 ### Títulos
 
