@@ -8,8 +8,8 @@ O Git foi criado em 2005 por Linus Torvalds para gerenciar o desenvolvimento do 
 
 ## O que é Git
 
-Git é uma ferramenta de controle de versão com foco em velocidade e integridade de dados. Tem a mesma função de outras ferramentas como SourceSafe, SVN e TFS. Você pode usar Git com o Github e também com o Bitbucket e Gitlab, pra citar alguns.
-O Git permite que várias pessoas trabalhem no mesmo projeto simultaneamente, mantendo um histórico completo de todas as alterações feitas no código-fonte. Além disso, o Git permite que os desenvolvedores trabalhem offline, criem e gerenciem ramos (ou branches) do projeto e colaborem em diferentes versões do código-fonte. Ele é amplamente utilizado em projetos de software livre e comercial.
+Git é um sistema de versionamento de código, com foco na velocidade e integridade de dados. Ele guarda os registros de versão do código como snapshots do estado do projeto bem como a referencia/caminho para esta snapshot.
+Git também permite que várias pessoas trabalhem no mesmo projeto simultaneamente, mantendo um histórico completo de todas as alterações feitas no código-fonte. Git permite que os desenvolvedores trabalhem offline, criem e gerenciem ramos (ou branches) do projeto e colaborem em diferentes versões do código-fonte. O Git é amplamente utilizado seja em projetos de software pessoal, livre ou comercial.
 
 ## GitHub
 
@@ -21,6 +21,8 @@ BASH usada para executar o Git a partir da linha de comando.
 
 ## GUI do Git
 Alternativa visual ao Git BASH
+
+
 
 ## Comandos Git 
 
