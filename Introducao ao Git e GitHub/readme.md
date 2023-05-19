@@ -46,6 +46,14 @@ git init
 git status
 ~~~
 
+* Mostra o que foi modificado
+
+~~~
+git diff
+
+git diff --staged
+~~~
+
 ### Adicionar arquivo/diretório (staged area)
 
 * Adicionar um arquivo em específico
@@ -86,6 +94,11 @@ git commit meu_arquivo.txt
 git commit meu_arquivo.txt meu_outro_arquivo.txt
 ~~~
 
+* Comit generico
+
+~~~
+git commit -m "Meu commit"
+~~~
 * Comitar informando mensagem
 
 ~~~
@@ -107,6 +120,8 @@ git rm -r diretorio
 ~~~
 
 
+## Outros comandos
+
 `git push`: Envia os commits locais para um repositório remoto.
 
 `git pull`: Obtém e mescla as alterações do repositório remoto no branch local.
@@ -116,6 +131,12 @@ git rm -r diretorio
 `git checkout [nome do branch ou commit]`: Alterna para o branch especificado ou commit.
 
 `git merge [nome do branch]`: Mescla o branch especificado com o branch atual.
+
+`git log`: Ajuda ver o histórico de commit
+
+`gir restore`: Remove as alterações
+
+`gir restore --staged`: Remove as alterações do arquivos staged
 
 
 
